@@ -1,0 +1,150 @@
+/** @format */
+<!-- #Table_01 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 800px;
+  height: 844px;
+}
+
+#top {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 800px;
+  height: 39px;
+  background-color: #ffffff;
+}
+
+#left {
+  position: absolute;
+  left: 0px;
+  top: 39px;
+  width: 41px;
+  height: 762px;
+  background-color: #ffffff;
+  background-image: url(../images/left1.png);
+}
+
+#content {
+  position: absolute;
+  left: 41px;
+  top: 39px;
+  width: 719px;
+  height: 133px;
+  background-color: #c7c7c7;
+  color: #000000;
+  font-size: 30px;
+  text-align: center;
+}
+#content1 {
+  text-align: center;
+  font-size: 28px;
+}
+
+#right {
+  position: absolute;
+  left: 760px;
+  top: 39px;
+  width: 40px;
+  height: 762px;
+  background-color: #ffffff;
+  color: #000000;
+}
+
+#nd {
+  position: absolute;
+  left: 41px;
+  top: 172px;
+  width: 719px;
+  height: 629px;
+}
+
+#bot {
+  position: absolute;
+  left: 0px;
+  top: 801px;
+  width: 800px;
+  height: 43px;
+  background-color: #ffffff;
+  color: #000;
+}
+.container {
+  margin-left: 150px;
+}
+.container1 {
+  margin-left: 150px;
+}
+.text0 {
+  font-size: 15px;
+  color: #000;
+}
+.text {
+  margin-left: 60px;
+  color: #000;
+}
+.text2 {
+  margin-left: 380px;
+  color: #000;
+}
+.text3 {
+  margin-left: 50px;
+}
+.text4 {
+  margin-left: 20px;
+}
+.text5 {
+  margin-left: 480px;
+  color: #000;
+}
+.text6 {
+  margin-left: 540px;
+  color: #000;
+}
+.center {
+  text-align: center;
+}
+.anh1 {
+  margin-left: 30px;
+}
+.anh2 {
+  margin-left: 90px;
+}
+.fl_left {
+  float: left;
+}
+.fl_right {
+  float: right;
+}
+.images {
+  width: 160px;
+  height: 160px;
+}
+.images:hover {
+  width: 180px;
+  height: 180px;
+  transition-delay: 0.1s;
+}
+.pad_left {
+  padding-left: 50px;
+}
+.pad_left2 {
+  padding-left: 80px;
+}
+.mg_top {
+  margin-top: 30px;
+}
+.mg_left {
+  margin-left: 30px;
+}
+.img_radius {
+  border-radius: 10px;
+}
+ul {
+  list-style-image: url(../images/ngoi_sao_vang.png);
+}
+body {
+  background-color: #d3d3d3;
+  color: #000000;
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}

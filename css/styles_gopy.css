@@ -1,0 +1,53 @@
+/** @format */
+
+body {
+  font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+  background-color: #d3d3d3;
+  color: #000;
+}
+.bg_color {
+  padding: 30px;
+}
+.box {
+  margin: 30px 185px 30px 187px;
+}
+.input {
+  padding: 10px 20px 10px 20px;
+  width: 400px;
+  border: hidden;
+}
+.select {
+  padding: 7px 15px 7px 15px;
+  width: 440px;
+  opacity: 0.7;
+}
+.margin {
+  margin-right: 15px;
+}
+.center {
+  text-align: center;
+}
+.tieude {
+  color: #000;
+  text-align: center;
+  font-size: 35px;
+}
+.noidung {
+  text-align: center;
+  opacity: 0.5;
+  font-size: 14px;
+  color: #000;
+}
+.mo_ta {
+  padding: 10px 20px 10px 20px;
+}
+.boder {
+  border: 1px solid none;
+  padding: 10px 20px 10px 20px;
+  color: #000000;
+  background-color: greenyellow;
+  border-radius: 5px;
+}
+.boder_margin {
+  margin-top: 40px;
+}

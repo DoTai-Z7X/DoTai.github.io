@@ -1,0 +1,17 @@
+/** @format */
+
+body {
+  background-color: #d3d3d3;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+h3 {
+  text-align: center;
+  color: rgb(38, 160, 168);
+}
+p {
+  color: rgb(221, 55, 221);
+  text-align: center;
+  font-size: 18px;
+}

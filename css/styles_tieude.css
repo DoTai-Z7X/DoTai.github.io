@@ -1,0 +1,43 @@
+.box_search{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 14px;
+    width: 400px;
+    background-color: grey;
+}
+::placeholder{
+    color: white;
+}
+.margin_icon{
+    margin-right: 10px;
+}
+.left{
+    float: left;
+    margin-right: 200px;
+}
+.icon{
+    font-size: 30px;
+}
+.fa-tshirt{
+    color: blue;
+}
+.fa-upload{
+    color: white;
+}
+.fa-cogs{
+    color: white;
+}
+.fa-user-circle{
+    color: white;
+}
+.fa-arrow-left{
+    color: white;
+}
+.fa-arrow-right{
+    color: white;
+}
+.container{
+    background-color: #170f23;
+    padding: 10px 20px 50px 20px;
+    margin: 10px 0px 0px 0px;
+}

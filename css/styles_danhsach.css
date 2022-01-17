@@ -1,0 +1,77 @@
+body{
+     font-family: Arial, Helvetica, sans-serif;
+}
+.text{
+    font-size: 17px;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+.margin_icon{
+    margin-bottom: 10px;
+}
+.icon{
+    font-size: 25px;
+    color:white;
+}
+.bg_color{
+    background-color: #231b2e;
+}
+.container{
+    margin: 10px 0px 10px 0px;
+    padding-bottom: 5px;
+}
+hr{
+    width: 80%;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.fa-images{
+    margin-right: 10px;
+}
+.fa-compact-disc{
+    margin-right: 10px;
+}
+.fa-chart-line{
+    margin-right: 10px;
+}
+.fa-broadcast-tower{
+    margin-right: 10px;
+}
+.fa-list-alt{
+    margin-right: 10px;
+}
+.fa-music{
+    margin-right: 10px;
+}
+.fa-cotton-bureau{
+    margin-right: 10px;
+}
+.fa-star{
+    margin-right: 10px;
+}
+.fa-play-circle{
+    margin-right: 10px;
+}
+.fa-plus{
+    margin-right: 10px;
+}
+.text_align_center{
+    text-align: center;
+}
+.box_color{
+    background-color: #6a50e4;
+    margin: 0px 10px 0px 10px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+.box_color_2{
+    background-color: #ffdb00;
+    margin: 0px 15px 0px 15px;
+    padding: 0.3px;
+    border-radius: 10px;
+}
